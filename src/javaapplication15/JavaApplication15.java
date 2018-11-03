@@ -19,6 +19,7 @@ public class JavaApplication15 {
         System.out.println("Balajar Git");
         System.out.println("Apakah disini akan terjadi suatu perubahan yang signifikan ");
         System.out.println("Yahhh kita lihat sajoooo");
+        System.out.println("ini adalah update setelah menambahkan wakatime");
     }
     
 }
