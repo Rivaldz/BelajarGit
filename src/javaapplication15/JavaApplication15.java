@@ -12,11 +12,13 @@ package javaapplication15;
 public class JavaApplication15 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumnts
      */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Balajar Git");
+        System.out.println("Apakah disini akan terjadi suatu perubahan yang signifikan ");
+        System.out.println("Yahhh kita lihat sajoooo");
     }
     
 }
